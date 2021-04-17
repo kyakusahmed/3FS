@@ -1,0 +1,11 @@
+Flask==1.0.2
+pylint==2.1.1
+pytest==3.8.0
+requests==2.19.1
+httmock==1.2.6
+gunicorn==19.9.0
+coverage==4.5.1
+nose==1.3.7
+coveralls==1.5.0
+pytest-cov==2.6.0
+Werkzeug==0.14.1
